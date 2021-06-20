@@ -1,0 +1,16 @@
+[14-Jun-2021 23:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/saad/Local Sites/firsttest/app/public/wp-admin/includes/theme.php on line 586
+[14-Jun-2021 23:39:47 UTC] PHP Stack trace:
+[14-Jun-2021 23:39:47 UTC] PHP   1. {main}() /home/saad/Local Sites/firsttest/app/public/wp-admin/admin-ajax.php:0
+[14-Jun-2021 23:39:47 UTC] PHP   2. do_action() /home/saad/Local Sites/firsttest/app/public/wp-admin/admin-ajax.php:187
+[14-Jun-2021 23:39:47 UTC] PHP   3. WP_Hook->do_action() /home/saad/Local Sites/firsttest/app/public/wp-includes/plugin.php:484
+[14-Jun-2021 23:39:47 UTC] PHP   4. WP_Hook->apply_filters() /home/saad/Local Sites/firsttest/app/public/wp-includes/class-wp-hook.php:316
+[14-Jun-2021 23:39:47 UTC] PHP   5. wp_ajax_query_themes() /home/saad/Local Sites/firsttest/app/public/wp-includes/class-wp-hook.php:292
+[14-Jun-2021 23:39:47 UTC] PHP   6. themes_api() /home/saad/Local Sites/firsttest/app/public/wp-admin/includes/ajax-actions.php:3536
+[14-Jun-2021 23:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/saad/Local Sites/firsttest/app/public/wp-admin/includes/theme.php on line 586
+[14-Jun-2021 23:42:26 UTC] PHP Stack trace:
+[14-Jun-2021 23:42:26 UTC] PHP   1. {main}() /home/saad/Local Sites/firsttest/app/public/wp-admin/admin-ajax.php:0
+[14-Jun-2021 23:42:26 UTC] PHP   2. do_action() /home/saad/Local Sites/firsttest/app/public/wp-admin/admin-ajax.php:187
+[14-Jun-2021 23:42:26 UTC] PHP   3. WP_Hook->do_action() /home/saad/Local Sites/firsttest/app/public/wp-includes/plugin.php:484
+[14-Jun-2021 23:42:26 UTC] PHP   4. WP_Hook->apply_filters() /home/saad/Local Sites/firsttest/app/public/wp-includes/class-wp-hook.php:316
+[14-Jun-2021 23:42:26 UTC] PHP   5. wp_ajax_query_themes() /home/saad/Local Sites/firsttest/app/public/wp-includes/class-wp-hook.php:292
+[14-Jun-2021 23:42:26 UTC] PHP   6. themes_api() /home/saad/Local Sites/firsttest/app/public/wp-admin/includes/ajax-actions.php:3536

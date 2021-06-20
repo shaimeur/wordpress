@@ -1,0 +1,28 @@
+[14-Jun-2021 14:08:48] NOTICE: fpm is running, pid 16347
+[14-Jun-2021 14:08:48] NOTICE: ready to handle connections
+[14-Jun-2021 17:13:14] NOTICE: Terminating ...
+[14-Jun-2021 17:13:14] NOTICE: exiting, bye-bye!
+[15-Jun-2021 00:31:18] NOTICE: fpm is running, pid 18653
+[15-Jun-2021 00:31:18] NOTICE: ready to handle connections
+[15-Jun-2021 02:23:21] NOTICE: Terminating ...
+[15-Jun-2021 02:23:21] NOTICE: exiting, bye-bye!
+[15-Jun-2021 14:52:13] NOTICE: fpm is running, pid 8722
+[15-Jun-2021 14:52:13] NOTICE: ready to handle connections
+[15-Jun-2021 15:00:33] ERROR: Another FPM instance seems to already listen on /home/saad/.config/Local/run/b5HOfkwvl/php/php-fpm.socket
+[15-Jun-2021 15:00:33] ERROR: FPM initialization failed
+[15-Jun-2021 15:00:33] ERROR: Another FPM instance seems to already listen on /home/saad/.config/Local/run/b5HOfkwvl/php/php-fpm.socket
+[15-Jun-2021 15:00:33] ERROR: FPM initialization failed
+[15-Jun-2021 15:00:34] ERROR: Another FPM instance seems to already listen on /home/saad/.config/Local/run/b5HOfkwvl/php/php-fpm.socket
+[15-Jun-2021 15:00:34] ERROR: FPM initialization failed
+[15-Jun-2021 15:00:34] ERROR: Another FPM instance seems to already listen on /home/saad/.config/Local/run/b5HOfkwvl/php/php-fpm.socket
+[15-Jun-2021 15:00:34] ERROR: FPM initialization failed
+[15-Jun-2021 19:45:48] NOTICE: Terminating ...
+[15-Jun-2021 19:45:48] NOTICE: exiting, bye-bye!
+[18-Jun-2021 09:24:46] NOTICE: fpm is running, pid 3883
+[18-Jun-2021 09:24:46] NOTICE: ready to handle connections
+[18-Jun-2021 14:08:23] NOTICE: Terminating ...
+[18-Jun-2021 14:08:23] NOTICE: exiting, bye-bye!
+[18-Jun-2021 16:20:08] NOTICE: fpm is running, pid 9814
+[18-Jun-2021 16:20:08] NOTICE: ready to handle connections
+[18-Jun-2021 17:00:10] NOTICE: Terminating ...
+[18-Jun-2021 17:00:10] NOTICE: exiting, bye-bye!
