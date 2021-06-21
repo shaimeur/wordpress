@@ -5,8 +5,8 @@ Author: Translate AI Multilingual Solutions
 Author URI: https://gtranslate.io/?xyz=3167
 Tags: translate wordpress, translate, translator, translation, language, multi language
 Requires at least: 2.9
-Tested up to: 5.6
-Stable tag: 6.0.8
+Tested up to: 5.7
+Stable tag: 6.0.9
 
 Translate WordPress with Google Language Translator multilanguage plugin which allows to insert Google Translate widget anywhere on your website.
 
@@ -155,6 +155,10 @@ If you want us to translate your website professionally or provide you a proofre
 Yes! Add the "notranslate" class to the HTML element containing your text. For example, the following text will be excluded from translation: <span class="notranslate">Hello World!</span>
 
 == Changelog ==
+= 6.0.9 =
+* New server added into our Translation Delivery Network
+* Tested with new WordPress 5.7 version
+
 = 6.0.8 =
 * Tested with new WordPress 5.6 version
 * Ground up rebuild of our Translation Proxy cloud network for paid customers, now page translations are 3x faster on average.
